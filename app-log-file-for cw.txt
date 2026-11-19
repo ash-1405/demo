@@ -23,6 +23,3 @@ echo "INFO: app is working fine" >> app.log
 echo "ERROR: application program failing issue" >> app.log
 
 echo "FAILURE: application program failing issue" >> app.log
-
-
-hijhvhgd
